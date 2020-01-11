@@ -1,1 +1,4 @@
-﻿myjenkindemo -v1
+myjenkindemo -v1
+myjenkindemo
+-serverfix
+
